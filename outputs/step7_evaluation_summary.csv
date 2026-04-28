@@ -1,0 +1,6 @@
+Metric,Precision@5,Recall@5,F1@5,NDCG@5,HitRate@5,MAP
+Word2Vec Cosine,1.0,0.1282,0.2266,1.0,1.0,1.0
+Hybrid Score,1.0,0.1282,0.2266,1.0,1.0,0.9949
+TF-IDF Cosine,0.9948,0.1275,0.2254,0.9961,1.0,0.903
+Euclidean Sim,0.9948,0.1275,0.2254,0.9961,1.0,0.903
+Pearson Sim,0.9944,0.1274,0.2253,0.9958,1.0,0.896
