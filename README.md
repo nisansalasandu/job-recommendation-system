@@ -1,5 +1,5 @@
 # 🧠 Job Recommendation System
-### Gamage Recruiters — Data Science & Machine Learning Internship Project
+### Data Science & Machine Learning Internship Project
 
 > An end-to-end content-based job recommendation system that matches candidates to the most relevant job postings using NLP, multi-metric similarity scoring, and an interactive Streamlit dashboard — built in the Sri Lankan recruitment context.
 
